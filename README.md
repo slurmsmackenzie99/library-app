@@ -1,5 +1,6 @@
-![Alt](https://i.imgur.com/Nb0yqKk.jpeg)
 # Library Management System
+![Alt](https://i.imgur.com/Nb0yqKk.jpeg)
+
 ## This Library Management System is designed to manage authors and various types of items such as books, comics, and short story collections.
 
 ### Implemented Features
